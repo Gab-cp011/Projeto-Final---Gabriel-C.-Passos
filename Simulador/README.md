@@ -1,5 +1,5 @@
 
-# 🏎️ Simulador Automotivo em Python
+# Simulador Automotivo em Python
 
 Este projeto é um **simulador de dinâmica veicular**, desenvolvido em Python, que permite calcular e visualizar o comportamento longitudinal e lateral de um veículo sobre uma trajetória definida.
 
@@ -11,7 +11,7 @@ O simulador considera:
 
 ---
 
-## 📦 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```plaintext
 simulador/
@@ -66,14 +66,14 @@ python main.py
 
 ---
 
-## 📄 Entrada da Simulação
+##  Entrada da Simulação
 
-### 📍 Trajetória
+### Trajetória
 - Pode ser inserida de três formas:
   - Arquivo `.csv` contendo colunas `x`, `y`, `z`.
   - Inserção manual no próprio `main.py`.
 
-### 🚙 Parâmetros do Veículo
+### Parâmetros do Veículo
 - Massa (`m`)
 - Altura do centro de massa (`h`)
 - Área frontal (`Af`)
@@ -82,7 +82,7 @@ python main.py
 - Distâncias entre eixos (`lt`, `ld`)
 - Tipo de tração (`Tracao`: `'D'` dianteira ou `'T'` traseira)
 
-### 🔥 Potência e Transmissão (opcional)
+### Potência e Transmissão (opcional)
 - Potência (`P`)
 - Lista de potências por marcha (`Ps`)
 - Rotações máximas (`ns`)
@@ -92,7 +92,7 @@ python main.py
 
 ---
 
-## 📈 Saída da Simulação
+##  Saída da Simulação
 - Arquivo `resultado_simulacao.csv` contendo:
   - `Distance` — distância acumulada
   - `Speed` — velocidade (m/s)
@@ -108,27 +108,3 @@ python main.py
   - Curvas de velocidade, aceleração, força e dispersão Ax vs Ay
 
 ---
-
-## 🧠 Referências Físicas
-- Segunda Lei de Newton
-- Círculo de Kamm (ou Elipse de Tração) para aderência
-- Modelagem de resistência aerodinâmica e rolamento
-- Equação de Torricelli para correções retroativas
-
----
-
-## 🔥 Melhorias Futuras
-- Interface gráfica com Streamlit ou Dash
-- Geração de relatórios automáticos (PDF)
-- Exportação para telemetria em arquivos `.json` ou `.mat`
-- Validação contra dados reais
-
----
-
-## 👨‍🔬 Autor
-Desenvolvido por **Gabriel Cândido Passos**, como parte do projeto final de graduação — **Desenvolvimento de um Software de Simulação da Dinâmica de Motocicletas**, de 2025, que tem sua base e fundamentos no projeto final de **João Marcos Cavalcante** - **Desenvolvimento de um Simulador Automotivo em Python**. 
-
----
-
-## 🏁 Licença
-Este projeto é acadêmico e livre para uso educacional. Direitos reservados.
