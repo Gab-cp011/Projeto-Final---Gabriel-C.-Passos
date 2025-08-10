@@ -54,7 +54,9 @@ pip install numpy pandas matplotlib scipy
 
 1. Clone este repositório ou baixe os arquivos.
 2. Acesse a pasta do projeto.
-3. Execute o simulador:
+3. Preencha a variável que contém o caminho do arquivo com o trajeto a ser simulado  
+4. Preencha os parâmetros do veículo a ser simulado
+5. Execute o simulador:
 
 ```bash
 python main.py
