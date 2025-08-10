@@ -1,7 +1,7 @@
 
 # Simulador Automotivo em Python
 
-Este projeto é um **simulador de dinâmica veicular**, desenvolvido em Python, que permite calcular e visualizar o comportamento longitudinal e lateral de um veículo sobre uma trajetória definida.
+Este projeto é um **simulador de dinâmica veicular**, desenvolvido em Python, que permite calcular e visualizar o comportamento longitudinal e lateral de um veículo sobre uma trajetória definida, mais informações sobre seu funcionamento e modelagem são encontradas em meu projeto final: Análise Dinâmica de Motocicletas Utilizando um Simulador Automotivo, que será disponibilizado no repositório de documentos acadêmicos do CEFET/RJ.
 
 O simulador considera:
 - Dados geométricos da pista (incluindo altitude opcional).
