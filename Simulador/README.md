@@ -28,10 +28,8 @@ simulador/
 
 ---
 
-## 🚀 Funcionalidades
-- Simulação longitudinal e lateral.
+## Funcionalidades
 - Cálculo de acelerações (`Ax`, `Ay`), forças, velocidades e tempo.
-- Modelagem de inclinação (altitude).
 - Cálculo de marchas, relações e RPM (opcional).
 - Geração automática de gráficos:
   - Velocidade vs Distância
@@ -42,7 +40,7 @@ simulador/
 
 ---
 
-## ⚙️ Dependências
+##  Dependências
 
 Instale os requisitos básicos:
 
