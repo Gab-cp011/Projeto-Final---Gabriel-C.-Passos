@@ -7,7 +7,7 @@ O simulador considera:
 - Dados geométricos da pista (incluindo altitude opcional).
 - Dados físicos do veículo (massa, aerodinâmica, atrito, distribuição de peso).
 - Curvas de potência e transmissão (opcional).
-- Modelagem do círculo de aderência (Círculo de Kamm).
+- Modelagem da elipse de tração (Círculo de Kamm).
 
 ---
 
