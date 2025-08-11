@@ -50,7 +50,7 @@ pip install numpy pandas matplotlib scipy
 
 ---
 
-## 🚗 Como Executar
+## Como Executar
 
 1. Clone este repositório ou baixe os arquivos.
 2. Acesse a pasta do projeto.
